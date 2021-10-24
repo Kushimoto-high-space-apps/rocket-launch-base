@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アリアン5",
+        "time": "10月24日(日)\n午前10時1分-",
+        "description": "静止通信衛星SES-17、Syracuse 4A (Comsat-NG 1) (アリアンスペース社) (アリアンスペース社)\n\n打ち上げプレスキット(アリアンスペース社:PDFファイル)",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.773611,
+          5.222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H-IIAロケット",
+        "time": "10月26日(火)\n午前11時～12時",
+        "description": "準天頂衛星「みちびき」初号機後継機",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9572748,
+          30.3746422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "カイロス",
+        "time": "2021年度中",
+        "description": "民間初の発射場",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.888972,
+          33.544542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ソユーズ2.1a",
+        "time": "10月28日(木)\r\n午前9時",
+        "description": "ISS無人補給機プログレスMS-18(79P)",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.303735,
+          45.965114
+        ]
+      }
+    }
+  ]
+}
